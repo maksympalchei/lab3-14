@@ -41,3 +41,13 @@
 3. Пишу код
 4. Пишу звіт
 </div>
+<h2>Скріншоти роботи програми</h2>
+<div>
+  <img width="224" alt="1ск" src="https://github.com/maksympalchei/lab3-14/assets/148455517/1a873dde-aa2e-4a76-8311-0dc60ff608a2">
+<img width="297" alt="ск2" src="https://github.com/maksympalchei/lab3-14/assets/148455517/68067288-3d60-4318-81a8-9676f00d15a8">
+<img width="298" alt="ск3" src="https://github.com/maksympalchei/lab3-14/assets/148455517/57f48fac-cb44-4caf-93be-17a25fbcd5f2">
+<img width="296" alt="ск4" src="https://github.com/maksympalchei/lab3-14/assets/148455517/db966f87-804d-4762-ac17-abc1d25a9e66">
+</div>
+<div>
+  Висновки: на цій лабораторній роботі ми попрактикувались у створенні додатків з формами та елементами керування
+</div>
